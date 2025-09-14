@@ -4,8 +4,8 @@
 
 Claude Code 拼车最佳实践: [https://ctok.ai/claude-code-group](https://ctok.ai/claude-code-group)
 
-Claude Code 文章教程：[https://ctok.ai?from=github](https://ctok.ai?from=github)
-Claude Code 中文社群：[https://ccsh.ai?from=github](https://ccsh.ai?from=github)
+* Claude Code 文章教程：[https://ctok.ai?from=github](https://ctok.ai?from=github)
+* Claude Code 中文社群：[https://ccsh.ai?from=github](https://ccsh.ai?from=github)
 
 
 ## 支持服务
